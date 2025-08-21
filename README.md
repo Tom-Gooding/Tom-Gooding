@@ -7,8 +7,8 @@ I currently serve as a research scientist in occupational sleep medicine, where 
 
 ## **Aspects of work (research) I particularly enjoy include:** 
 
-1) Data storytelling—analyzing and interpreting the story that a dataset or review of literature tells;
-2) Scientific communication: translating the insights gained from data analysis or a literature synthesis into clear, meaningful insights through written and verbal communication—particularly biometric data. 
+1) Data Analysis: Analyzing and interpreting data using a combination of Python, SQL, and Excel to uncover data-driven insights. 
+2) Scientific communication (Data storytelling): Translating findings from data analysis, or from a literature review, into clear, meaningful insights through written and verbal communication.
 
 I’m passionate about bridging the gap between theory and real-world application (i.e., translational research)—whether it's through data analysis, scientific communication, or stakeholder education. As such, I am open to opportunities involving scientific communication, health data analytics, or similar roles in translational research—particularly within biotech, digital health, or applied clinical research environments.
 
