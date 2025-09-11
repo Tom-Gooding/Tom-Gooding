@@ -11,10 +11,6 @@ I’m passionate about bridging the gap between theory and real-world applicatio
 
 - [Medical/Scientific Writing](https://github.com/Tom-Gooding/Portfolio/tree/main/Writing%20Samples)
 
-## 📫 **How to reach me:**  
-- Email: [Tom.Gooding18@gmail.com](Tom.Gooding18@gmail.com )  
-- LinkedIn [LinkedIn](https://www.linkedin.com/in/thomas-gooding-phd-atc-cscs-81767053/)
-
 ## **Key Industry Skills:**
 
 🧠 Scientific & Medical Writing:
@@ -32,3 +28,6 @@ VS Code | Git/GitHub | Jupyter Notebook | REDCap | Qualtrics | Google Workspace 
 🎓 Teaching & Leadership
 Curriculum Design | Mentorship | Educational Content Development | Public Speaking | Science Communication
 
+## 📫 **How to reach me:**  
+- Email: [Tom.Gooding18@gmail.com](Tom.Gooding18@gmail.com )  
+- LinkedIn [LinkedIn](https://www.linkedin.com/in/thomas-gooding-phd-atc-cscs-81767053/)
