@@ -18,30 +18,18 @@ I’m passionate about bridging the gap between theory and real-world applicatio
 
 ## **Key Industry Skills:**
 
-🧠 *Scientific & Technical Expertise:*
-Scientific Writing | Literature Synthesis | Data Interpretation | Sleep & Circadian Biology | Exercise Physiology | Human Performance 
+🧠 Scientific & Medical Writing:
+Scientific Writing & Medical Writing (AMA, APA) | Manuscript Preparation | Literature Review & Appraisal | Literature Synthesis | Data Interpretation | Presentation of Scientific Content (Abstracts, Posters, Slide Decks)
 
-📊 *Data Analysis & Visualization:*
-Data Analysis | Data Visualization | Data Storytelling | Excel | SQL | Python (NumPy, Pandas, Matplotlib, Seaborn, Statsmodels, SciPy, Scikit-learn) | SPSS | Statistical Modeling | Data Cleaning & Wrangling | Data Curation
+🤝 Scientific Communication & Collaboration:
+Verbal & Written Communication | Public Speaking | Grant Writing | Cross-Functional Collaboration | Stakeholder Engagement | Knowledge Translation | Project Management
 
-🤝 *Scientific Communication & Collaboration:*
-Verbal & Written Communication | Public Speaking | Project Management | Grant Writing | Cross-functional Collaboration | Stakeholder Engagement | Knowledge Translation
+📊 Data Analysis & Visualization:
+Data Analysis | Statistical Modeling | Data Interpretation | Data Visualization | Data Storytelling | Excel | SQL | Python (NumPy, Pandas, Matplotlib, SciPy, Statsmodels, Scikit-learn) | SPSS | Data Curation
 
-🎓 *Teaching & Leadership:*
-Curriculum Design | Teaching Pedagogy | Mentorship | Educational Content Development | Scientific Presentations
+👨‍💻 Tools & Software:
+VS Code | Git/GitHub | Jupyter Notebook | REDCap | Qualtrics | Google Workspace | Microsoft Office Suite
 
-👨‍💻 *Tools & Software:*
-VS Code | Git/Github | Jupyter Notebook | REDCap | Qualtrics | Google Workspace | MS Office (Excel, Word, PowerPoint)
-
-## 🔭 **I’m currently working on**
-- Final revisions of a journal manuscript examining sleep characteristics and sleep regularity in recreationally active adults during a three-week high-intensity training protocol (building off of my dissertation).
-- Providing fatigue risk countermeasures guidance to pilots in the aviation industry (occupational sleep medicine).
-- Investigating the underlying risks of cardiac emergencies during Ironman triathlons
-- Qualiative data analysis of focus group transcripts regarding perceived risk of injury during Ironman triathlon competition
-
-## 🌱 **Skills I’m currently learning/refining**
-- Refining my Python coding skills
-- SQL
-- Using Github and Visual Studio Code. (i.e., Gitflow between the two)
-- Writing and communication skills (there's always room for improvement).
+🎓 Teaching & Leadership
+Curriculum Design | Mentorship | Educational Content Development | Public Speaking | Science Communication
 
