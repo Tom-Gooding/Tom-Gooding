@@ -7,9 +7,9 @@ I currently serve as a research scientist in occupational sleep medicine, where 
 
 I’m passionate about bridging the gap between theory and real-world application (i.e., translational research)—whether it's through data analysis, scientific communication, or stakeholder education. As such, I am open to opportunities involving scientific communication, biomedical/healthcare data analytics, or similar roles in translational research—particularly within biotech, digital health, or applied clinical research settings.
 
-## 💼 Portfolio Projects
+## 💼 Professional Portfolio
 
-- [Medical/Scientific Writing](https://github.com/Tom-Gooding/Portfolio/tree/main/Writing%20Samples)
+- [Medical/Scientific Writing samples](https://github.com/Tom-Gooding/Portfolio/tree/main/Writing%20Samples)
 
 ## **Key Industry Skills:**
 
