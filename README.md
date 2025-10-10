@@ -10,6 +10,7 @@ I’m passionate about bridging the gap between theory and real-world applicatio
 ## 💼 Professional Portfolio
 
 - [Medical/Scientific Writing samples](https://github.com/Tom-Gooding/Portfolio/tree/main/Writing%20Samples)
+- [Data Projects (Coding)](https://github.com/Tom-Gooding/Portfolio/tree/main/Data_Projects)
 
 ## **Key Industry Skills:**
 
