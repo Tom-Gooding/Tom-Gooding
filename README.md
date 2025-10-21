@@ -5,7 +5,7 @@ I am a research scientist/ medical writer specializing in Sleep Medicine, Exerci
 
 Whether its through data analysis, scientific writing, or stakeholder education, I enjoy translating complex research into actionable, user-friendly insights that can be used to improve health, performance, and well-being.
 
-I am actively seeking opportunities in medical/scientific writing, research analysis, and healthcare data analytics roles, particularly in biomedical, biotech, digital health, and applied clinical research environments. I thrive in roles where I can leverage my skills to deliver evidence-based insights, communicate science effectively, and drive actionable outcomes.
+I am actively seeking opportunities in medical/scientific writing, research analysis, and healthcare data analytics roles—particularly in biomedical, biotech, digital health, and applied clinical research environments.
 
 ## 💼 Professional Portfolio
 
